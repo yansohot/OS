@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build killer",
+            "type": "shell",
+            "command": "g++",
+            "args": ["-o", "killer", "killer.cpp"],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        },
+        {
+            "label": "build user",
+            "type": "shell",
+            "command": "g++",
+            "args": ["-o", "user", "user.cpp"],
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        },
+        {
+            "label": "build all",
+            "dependsOrder": "sequence",
+            "dependsOn": ["build killer", "build user"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

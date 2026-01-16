@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build-linux",
+            "type": "shell",
+            "command": "mkdir",
+            "args": [
+                "-p",
+                "build"
+            ],
+            "group": "build"
+        },
+        {
+            "label": "build-linux",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++11",
+                "-o",
+                "${workspaceFolder}/build/main",
+                "${workspaceFolder}/main.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "dependsOn": "mkdir-build-linux"
+        },
+        {
+            "label": "mkdir-build-linux",
+            "type": "shell",
+            "command": "mkdir",
+            "args": [
+                "-p",
+                "build"
+            ]
+        }
+    ]
+}
