@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|solutionrelative:number\\number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|solutionrelative:number\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|solutionrelative:number\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626569A0-1659-44D3-B781-495CC807BBF4}|lib_win1\\lib_win1.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\lib_win1\\lib_win1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{626569A0-1659-44D3-B781-495CC807BBF4}|lib_win1\\lib_win1.vcxproj|solutionrelative:lib_win1\\lib_win1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEF6AE5B-25E3-4834-9968-BC1E24BEA407}|vector\\vector.vcxproj|solutionrelative:vector\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D97C42CA-B471-4F28-AB2E-63E226A6BD33}|number\\number.vcxproj|solutionrelative:number\\number.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.h",
+              "RelativeDocumentMoniker": "vector\\pch.h",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.h",
+              "RelativeToolTip": "vector\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T19:44:38.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vector.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.h",
+              "RelativeDocumentMoniker": "vector\\vector.h",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.h",
+              "RelativeToolTip": "vector\\vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T19:44:39.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vector.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.cpp",
+              "RelativeDocumentMoniker": "vector\\vector.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\vector.cpp",
+              "RelativeToolTip": "vector\\vector.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "number.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.h",
+              "RelativeDocumentMoniker": "number\\number.h",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.h",
+              "RelativeToolTip": "number\\number.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T19:44:39.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.h",
+              "RelativeDocumentMoniker": "number\\pch.h",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.h",
+              "RelativeToolTip": "number\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T19:44:39.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.cpp",
+              "RelativeDocumentMoniker": "number\\pch.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\pch.cpp",
+              "RelativeToolTip": "number\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "number.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.cpp",
+              "RelativeDocumentMoniker": "number\\number.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\number\\number.cpp",
+              "RelativeToolTip": "number\\number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\framework.h",
+              "RelativeDocumentMoniker": "vector\\framework.h",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\framework.h",
+              "RelativeToolTip": "vector\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-16T19:44:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.cpp",
+              "RelativeDocumentMoniker": "vector\\pch.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\pch.cpp",
+              "RelativeToolTip": "vector\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\dllmain.cpp",
+              "RelativeDocumentMoniker": "vector\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\vector\\dllmain.cpp",
+              "RelativeToolTip": "vector\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lib_win1.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\lib_win1\\lib_win1.cpp",
+              "RelativeDocumentMoniker": "lib_win1\\lib_win1.cpp",
+              "ToolTip": "C:\\Users\\USER\\Downloads\\Telegram Desktop\\lib_win1\\lib_win1\\lib_win1\\lib_win1.cpp",
+              "RelativeToolTip": "lib_win1\\lib_win1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-16T19:44:39.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

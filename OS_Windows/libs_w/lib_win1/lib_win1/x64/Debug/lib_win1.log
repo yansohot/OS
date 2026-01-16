@@ -1,0 +1,13 @@
+﻿  lib_win1.cpp
+C:\Users\USER\Downloads\Telegram Desktop\lib_win1\lib_win1\vector\vector.h(13,12): warning C4251: "Vector::x": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "lib_win1.cpp")
+      C:\Users\USER\Downloads\Telegram Desktop\lib_win1\lib_win1\number\number.h(3,7):
+       см. объявление "Number"
+  
+C:\Users\USER\Downloads\Telegram Desktop\lib_win1\lib_win1\vector\vector.h(14,12): warning C4251: "Vector::y": "Number" должен иметь dll-интерфейс для использования клиентами "Vector"
+  (компиляция исходного файла "lib_win1.cpp")
+      C:\Users\USER\Downloads\Telegram Desktop\lib_win1\lib_win1\number\number.h(3,7):
+       см. объявление "Number"
+  
+  lib_win1.vcxproj -> C:\Users\USER\Downloads\Telegram Desktop\lib_win1\lib_win1\x64\Debug\lib_win1.exe
+  ╤ъюяшЁютрэю Їрщыют: 0.
